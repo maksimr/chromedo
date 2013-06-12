@@ -1,10 +1,10 @@
 {
   "appName": {
-    "message": "chromedo",
+    "message": "ChromeDo",
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "My Chrome Extension",
+    "message": "The ChromeDo extension provides a quick and easy way to access your installed applications",
     "description": "The description of the application"
   }
 }

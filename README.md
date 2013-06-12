@@ -1,11 +1,13 @@
 # ChromeDo
 
-Description
+![ChromeDo][https://raw.github.com/maksimr/chromedo/master/app/images/icon-38.png]
+
+## Description
 
 The ChromeDo extension provides a quick and easy way
 to access your installed applications.
 
-Installing
+## Installing
 
 Now you can install extension only manually.
 
@@ -15,7 +17,7 @@ Now you can install extension only manually.
 4. Press on button `Load unpacked extension...` and select folder `app` inside
 directory there located extension
 
-Using
+## Usage
 
 Simple type in address bar `!do` and press `Tab`.
 After this start type name of extension which you want run,

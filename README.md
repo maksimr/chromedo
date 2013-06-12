@@ -1,6 +1,6 @@
 # ChromeDo
 
-![ChromeDo][https://raw.github.com/maksimr/chromedo/master/app/images/icon-38.png]
+![ChromeDo](https://raw.github.com/maksimr/chromedo/master/app/images/icon-38.png "ChromeDo")
 
 ## Description
 

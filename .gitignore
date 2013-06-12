@@ -1,0 +1,11 @@
+node_modules
+temp
+.tmp
+dist
+.sass-cache
+app/components
+*~
+*.swp
+*.swo
+*.swn
+*.swm
